@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Task5</string>
     <string name="thumbnail1">Thumbnail1</string>
+    <string name="thumbnail">Thumbnail: </string>
+    <string name="none">None</string>
+    <string name="promotion">Promotion: </string>
     <string name="content_thumbnail1">Content_Thumbnail1</string>
     <string name="baseline_star_24">baseline_star_24</string>
     <string name="xoi_ga">Xôi gà xé</string>

@@ -14,12 +14,13 @@
         android:orientation="horizontal">
         <TextView
             android:layout_marginStart="10dp"
-            android:layout_width="75dp"
+            android:layout_width="110dp"
             android:layout_height="wrap_content"
-            android:text="@string/name"
+            android:text="@string/id"
+            android:textSize="18sp"
             android:layout_gravity="center_vertical" />
         <EditText
-            android:id="@+id/food_name"
+            android:id="@+id/employ_id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
@@ -30,16 +31,15 @@
         android:orientation="horizontal">
         <TextView
             android:layout_marginStart="10dp"
-            android:layout_width="75dp"
+            android:layout_width="110dp"
             android:layout_height="wrap_content"
-            android:text="@string/thumbnail"
+            android:text="@string/full_name"
+            android:textSize="18sp"
             android:layout_gravity="center_vertical" />
-        <Spinner
-            android:id="@+id/thumbnail"
-            android:text="@string/none"
-            android:gravity="center_vertical"
+        <EditText
+            android:id="@+id/employ_name"
             android:layout_width="match_parent"
-            android:layout_height="40dp" />
+            android:layout_height="wrap_content" />
     </LinearLayout>
 
     <LinearLayout
@@ -48,23 +48,23 @@
         android:orientation="horizontal">
         <TextView
             android:layout_marginStart="10dp"
-            android:layout_width="70dp"
+            android:layout_width="110dp"
             android:layout_height="wrap_content"
-            android:text="@string/promotion"
+            android:text="@string/is_manager"
+            android:textSize="18sp"
             android:layout_gravity="center_vertical" />
         <CheckBox
-            android:id="@+id/promotion"
+            android:id="@+id/employ_type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </LinearLayout>
 
     <Button
-        android:id="@+id/add_dish"
-        android:layout_width="match_parent"
+        android:id="@+id/add_btn"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="15dp"
-        android:layout_marginEnd="15dp"
-        android:text="@string/add_new_dish"
+        android:text="@string/add"
+        android:textSize="20sp"
         android:layout_gravity="center" />
 
     <TextView
@@ -72,16 +72,12 @@
         android:layout_height="20dp"
         android:gravity="center"
         android:textColor="@color/white"
-        android:background="#550000FF"/>
+        android:background="@color/light_blue"/>
 
-    <GridView
-        android:id="@+id/gv"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:numColumns="2"
-        android:horizontalSpacing="10dp"
-        android:verticalSpacing="10dp"
-        android:padding="10dp"
-        android:stretchMode="columnWidth"/>
+        android:layout_height="wrap_content"/>
+
 
 </LinearLayout>
