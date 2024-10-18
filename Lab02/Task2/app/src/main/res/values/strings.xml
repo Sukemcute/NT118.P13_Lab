@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Task2</string>
+    <string name="nhap_ten">Nhập tên: </string>
+    <string name="nhap">Nhập</string>
     <string name="my_name">Lê Thị Thùy Trang - 22521511\nposition: null, value = null</string>
     <string name="item_click_message">Lê Thị Thùy Trang - 22521511\nposition: %1$d, value = %2$s</string>
 </resources>

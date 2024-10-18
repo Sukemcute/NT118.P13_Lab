@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Quản lý nhân viên"
+        android:text="@string/quan_ly_nhan_vien"
         android:gravity="center"
         android:textSize="20sp"
         android:textColor="#FFFFFF"
@@ -24,7 +24,7 @@
         <TextView
             android:layout_width="70dp"
             android:layout_height="wrap_content"
-            android:text="Mã NV: "
+            android:text="@string/ma_nv"
             android:textSize="15sp"
             android:layout_gravity="center"/>
         <EditText
@@ -40,7 +40,7 @@
         <TextView
             android:layout_width="70dp"
             android:layout_height="wrap_content"
-            android:text="Tên NV: "
+            android:text="@string/ten_nv"
             android:textSize="15sp"
             android:layout_gravity="center"/>
         <EditText
@@ -56,7 +56,7 @@
         <TextView
             android:layout_width="70dp"
             android:layout_height="wrap_content"
-            android:text="Loại NV: "
+            android:text="@string/loai_nv"
             android:textSize="15sp"
             android:layout_gravity="center"/>
 

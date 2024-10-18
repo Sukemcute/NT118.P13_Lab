@@ -28,8 +28,10 @@ public class MyArrayAdapter extends ArrayAdapter<String> {
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
-        LayoutInflater myInflater = context.getLayoutInflater();
-        convertView = myInflater.inflate(IdLayout, null);
+        if (convertView == null) {
+            LayoutInflater myInflater = context.getLayoutInflater();
+            convertView = myInflater.inflate(IdLayout, parent, false);
+        }
         String name = myList.get(position);
         TextView tv = convertView.findViewById(R.id.tv);
         tv.setText(name);

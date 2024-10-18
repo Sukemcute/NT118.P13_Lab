@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task3</string>
+    <string name="quan_ly_nhan_vien">Quản lý nhân viên</string>
+    <string name="ma_nv">Mã NV: </string>
+    <string name="ten_nv">Tên NV: </string>
+    <string name="loai_nv">Loại NV: </string>
 </resources>

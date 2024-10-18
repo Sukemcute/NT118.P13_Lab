@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         if (employeeId.getText().toString().isEmpty()
                 || employeeName.getText().toString().isEmpty()
                 || (!fulltime.isChecked() && !parttime.isChecked())) {
-            Toast.makeText(MainActivity.this, "Hãy nhập đủ các trường dữ liệu!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, "Hãy nhập đủ các thông tin trên!", Toast.LENGTH_SHORT).show();
             return;
         }
 
@@ -83,6 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
         myArrayAdapter.notifyDataSetChanged();
 
+        // Hiển thị thông báo nhập dữ liệu thành công
+        Toast.makeText(MainActivity.this, "Nhân viên đã được thêm thành công!", Toast.LENGTH_SHORT).show();
         // Clear data
         employeeId.setText("");
         employeeName.setText("");
