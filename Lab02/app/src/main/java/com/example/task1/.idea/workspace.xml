@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f875024-f941-4f33-93a5-bc94d873eb3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/Lab01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/.gradle/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.gradle/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1a/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task1b/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Lab01/task3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Task4/app/src/main/java/com/example/task4/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Task4/app/src/main/java/com/example/task4/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/java/com/example/task5/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/java/com/example/task5/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/java/com/example/task5/ThumbnailAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/java/com/example/task5/ThumbnailAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/res/layout/dish_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/res/layout/dish_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/res/layout/thumbnail_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Task5/app/src/main/res/layout/thumbnail_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/caches/deviceStreaming.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2nbQaifQ4RhHMZOflbb5YWqWLfk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Sukem/Nam3/NT118_Phat trien UD Web/NT118.P13_Lab/Lab02/app/src/main/java/com/example/task1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f875024-f941-4f33-93a5-bc94d873eb3d" name="Changes" comment="" />
+      <created>1729239361017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729239361017</updated>
+    </task>
+    <servers />
+  </component>
+</project>

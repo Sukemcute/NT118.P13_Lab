@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (id.getText().toString().isEmpty() || name.getText().toString().isEmpty()) {
-                    Toast.makeText(MainActivity.this, "Hãy nhập đủ các trường dữ liệu!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Hãy nhập đủ các thông tin!", Toast.LENGTH_SHORT).show();
                     return;
                 }
 

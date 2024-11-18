@@ -43,3 +43,4 @@ public class ThumbnailAdapter extends ArrayAdapter<Thumbnail> {
         return convertView;
     }
 }
+
